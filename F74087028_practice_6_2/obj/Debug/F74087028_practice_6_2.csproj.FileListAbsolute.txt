@@ -1,0 +1,10 @@
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\bin\Debug\F74087028_practice_6_2.exe.config
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\bin\Debug\F74087028_practice_6_2.exe
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\bin\Debug\F74087028_practice_6_2.pdb
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.csprojAssemblyReference.cache
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.Form1.resources
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.Properties.Resources.resources
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.csproj.GenerateResource.cache
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.csproj.CoreCompileInputs.cache
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.exe
+D:\C#\F74087028_practice_6_2\F74087028_practice_6_2\obj\Debug\F74087028_practice_6_2.pdb
